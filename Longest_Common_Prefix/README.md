@@ -5,12 +5,12 @@ If there is no common prefix, return an empty string "".
 
  
 
-Example 1:
+## Example 1:
 
   Input: strs = ["flower","flow","flight"]
   Output: "fl"
 
-Example 2:
+## Example 2:
 
   Input: strs = ["dog","racecar","car"]
   Output: ""
@@ -18,10 +18,11 @@ Example 2:
 
  
 
-Constraints:
+## Constraints:
 
     1 <= strs.length <= 200
     0 <= strs[i].length <= 200
     strs[i] consists of only lowercase English letters.
 
-Source: https://leetcode.com/problems/longest-common-prefix/description/
+## Source: 
+https://leetcode.com/problems/longest-common-prefix/description/
