@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\Longest_Common_Prefix\Longest_Common_Prefix.cs" Link="Longest_Common_Prefix.cs" />
+  </ItemGroup>
+
+</Project>
