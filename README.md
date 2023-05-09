@@ -1,12 +1,12 @@
-LeetCode Solutions
+#LeetCode Solutions
 
 This repository contains my solutions to various coding challenges on LeetCode. Each challenge is in its own file with a descriptive name and a corresponding number. The code is written in C#.
-Getting Started
+#Getting Started
 
 To run the code in this repository, you'll need to have Visual Studio or a similar development environment installed. You'll also need to have the .NET framework installed.
 
 Once you have everything set up, you can clone this repository to your local machine and open the solution file (LeetCode.sln) in Visual Studio. From there, you can build and run the individual projects to see the solutions in action.
-Structure
+#Structure
 
 Each challenge has its own file with a name that corresponds to the challenge number and a brief description. The code is structured in a way that is easy to read and understand. I've also included comments throughout the code to explain what each section does.
 Challenges
