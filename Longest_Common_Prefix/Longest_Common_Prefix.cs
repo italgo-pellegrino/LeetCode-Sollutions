@@ -1,5 +1,13 @@
 ﻿using System;
 
+/**
+ * This class implements the problem of finding the longest common prefix of an array of strings. 
+ * It provides two methods for solving this problem: lCPVertical, which uses vertical scanning,
+ * and lCPHorizontal, which uses horizontal scanning. The main method is used to test the two
+ * methods and print the result to the console.
+ *
+ * @author Italgo Walter Pellegrino
+ */
 public class Longest_Common_Prefix
 {
     String[] strs = { "flower","flower","flow","florian" };
