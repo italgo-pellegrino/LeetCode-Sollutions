@@ -13,7 +13,8 @@ Each challenge has its own file with a name that corresponds to the challenge nu
 
 Here's a list of the challenges that are included in this repository:
 
-    RomanToInteger.cs: Given a Roman numeral, convert it to an integer.  
+    RomanToInteger.cs: Given a Roman numeral, convert it to an integer. 
+    Longest_Common_Prefix: Given a String Array, return the longest common prefix 
 
 ## Notes
 
