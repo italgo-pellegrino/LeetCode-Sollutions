@@ -1,20 +1,23 @@
-LeetCode Solutions
+# Problem
+Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
-This repository contains my solutions to various coding challenges on LeetCode. Each challenge is in its own file with a descriptive name and a corresponding number. The code is written in C#.
-Getting Started
+    Symbol       Value
+    I             1
+    V             5
+    X             10
+    L             50
+    C             100
+    D             500
+    M             1000
 
-To run the code in this repository, you'll need to have Visual Studio or a similar development environment installed. You'll also need to have the .NET framework installed.
+For example, 2 is written as II in Roman numeral, just two ones added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II.
 
-Once you have everything set up, you can clone this repository to your local machine and open the solution file (LeetCode.sln) in Visual Studio. From there, you can build and run the individual projects to see the solutions in action.
-Structure
+Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:
 
-Each challenge has its own file with a name that corresponds to the challenge number and a brief description. The code is structured in a way that is easy to read and understand. I've also included comments throughout the code to explain what each section does.
-Challenges
+    I can be placed before V (5) and X (10) to make 4 and 9. 
+    X can be placed before L (50) and C (100) to make 40 and 90. 
+    C can be placed before D (500) and M (1000) to make 400 and 900.
 
-Here's a list of the challenges that are included in this repository:
+Given a roman numeral, convert it to an integer.
 
-    RomanToInteger.cs: Given a Roman numeral, convert it to an integer.  
-
-Notes
-
-These solutions are not necessarily the most efficient or optimal solutions to each problem. They are simply my own solutions that I came up with while working through the challenges on LeetCode. I welcome any feedback or suggestions for improvement.
+Source: https://leetcode.com/problems/roman-to-integer/
