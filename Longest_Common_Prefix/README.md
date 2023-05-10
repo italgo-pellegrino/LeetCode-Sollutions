@@ -1,28 +1,13 @@
 # Longest Common Prefix
-Write a function to find the longest common prefix string amongst an array of strings.
 
-If there is no common prefix, return an empty string "".
+This program implements two algorithms for finding the longest common prefix of an array of strings: vertical scanning and horizontal scanning.
+## Vertical Scanning Algorithm
 
- 
+The vertical scanning algorithm is implemented in the lCPVertical method. It takes an array of strings strs as input and returns the longest common prefix as a string.
 
-## Example 1:
+This algorithm first checks if the first string in the array is empty, if so, it returns an empty string. It then iterates over the characters of the first string and compares them with the corresponding characters in the other strings. If a mismatch is found, it returns the prefix found so far. Otherwise, it appends the matching character to the prefix and continues the iteration.
+## Horizontal Scanning Algorithm
 
-    Input: strs = ["flower","flow","flight"]
-    Output: "fl"
+The horizontal scanning algorithm is implemented in the lCPHorizontal method. It takes an array of strings strs as input and returns the longest common prefix as a string.
 
-## Example 2:
-
-    Input: strs = ["dog","racecar","car"]
-    Output: ""
-  Explanation: There is no common prefix among the input strings.
-
- 
-
-## Constraints:
-
-    1 <= strs.length <= 200
-    0 <= strs[i].length <= 200
-    strs[i] consists of only lowercase English letters.
-
-## Source: 
-https://leetcode.com/problems/longest-common-prefix/description/
+This algorithm first checks if the input array is null or empty, if so, it returns an empty string. It initializes the prefix to the first string in the array and iterates over the remaining strings, repeatedly removing the last character from the prefix until it is a prefix of the current string. If the prefix becomes empty, it returns an empty string. Otherwise, it returns the prefix.
