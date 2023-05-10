@@ -1,5 +1,3 @@
-Sure, here is a shorter `README.md` file:
-
 # Running Sum of 1D Array
 
 This C# program computes the running sum of a one-dimensional integer array. It contains a `RunningSum` method that takes an integer array as an input parameter and returns an integer array containing the running sum of the input array.
