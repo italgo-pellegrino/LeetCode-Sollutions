@@ -1,5 +1,3 @@
-Sure, here is a README.md file that explains the algorithm used in the code:
-
 # Isomorphic Strings Algorithm
 
 This code contains an algorithm to determine whether two given strings are isomorphic or not. 
