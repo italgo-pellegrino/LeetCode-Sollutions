@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode", "LeetCode\LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSumOf1DArray", "RunningSumOf1DArray\RunningSumOf1DArray.csproj", "{9B5730F6-7F9E-433F-B0DE-DFE004F536F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isomorphic Strings", "Isomorphic Strings\Isomorphic Strings.csproj", "{7E060C17-7E43-41C1-BED8-048228535EEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9B5730F6-7F9E-433F-B0DE-DFE004F536F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B5730F6-7F9E-433F-B0DE-DFE004F536F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B5730F6-7F9E-433F-B0DE-DFE004F536F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E060C17-7E43-41C1-BED8-048228535EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E060C17-7E43-41C1-BED8-048228535EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E060C17-7E43-41C1-BED8-048228535EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E060C17-7E43-41C1-BED8-048228535EEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

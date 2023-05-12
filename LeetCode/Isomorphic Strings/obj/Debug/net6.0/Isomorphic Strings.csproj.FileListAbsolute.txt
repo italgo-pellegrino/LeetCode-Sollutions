@@ -1,0 +1,15 @@
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.exe
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.deps.json
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.runtimeconfig.json
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.dll
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.pdb
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.csproj.AssemblyReference.cache
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.AssemblyInfoInputs.cache
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.AssemblyInfo.cs
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.csproj.CoreCompileInputs.cache
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.dll
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\refint\Isomorphic Strings.dll
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.pdb
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.genruntimeconfig.cache
+C:\Users\Italgo Pellegrino\Desktop\Projekte\Git Projekte\LeetCode-Sollutions\LeetCode\Isomorphic Strings\obj\Debug\net6.0\ref\Isomorphic Strings.dll
